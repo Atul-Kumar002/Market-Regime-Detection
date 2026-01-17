@@ -91,6 +91,7 @@ Market-Regime-Detection/
 1. Clone the repository
 ```bash
 git clone  https://github.com/Atul-Kumar002/Market-Regime-Detection.git
+```
 
 2. pip install -r requirements.txt
 
